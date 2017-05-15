@@ -1,2 +1,2 @@
 # Quiros
-Basic Android Game, crafted without framework's games.
+Este proyecto es un juego para android creado de forma artesanal sin frameworks que ayuden con el control de colisiones, con el motor del juego u cualquier otra cosa.
